@@ -7,7 +7,7 @@ if(!isset($title))$title='';
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title><?php echo $title;?></title>
+<title>Hall management v1.0</title>
 <meta charset="utf8">
 <meta name="viewport" content="width=device-width">
 
